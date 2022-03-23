@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spider</string>
+    <string name="facebook_app_id">1506082976458762</string>
+    <string name="fb_login_protocol_scheme">fb1506082976458762</string>
+    <string name="facebook_client_token">9c387327b9feb5ed4f9802f60d2310e9</string>
+
+
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "355720275265",
+    "project_id": "spider-add58",
+    "storage_bucket": "spider-add58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355720275265:android:d0dceafc25357af2fa2dc0",
+        "android_client_info": {
+          "package_name": "com.khaterCS.spider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355720275265-kvqo5qfftrvvorvio1m22644b2gj1463.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khaterCS.spider",
+            "certificate_hash": "8b35b124475c7ce5c8c6815fda3f3152d363bc00"
+          }
+        },
+        {
+          "client_id": "355720275265-3o32l1ekmcejvnc1k47ahcr3j7tkj13v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuklmv3jotmIVjq01y1Y-7Snj5Pu3-_Ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355720275265-3o32l1ekmcejvnc1k47ahcr3j7tkj13v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
